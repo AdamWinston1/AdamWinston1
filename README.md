@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">
+   <a href="https://readme-typing-svg.herokuapp.com/demo/">
+     <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&width=450&height=70&lines=Hi👋;I'm+Adam+Winston;Frontend+Developer.&center=true&size=30">
+   </a>
+ </h1>
 
-<!--
-**AdamWinston1/AdamWinston1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=adamwinston1&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwinston1&card_width=300&card_height=195&theme=chartreuse-dark&show_icons=true&hide_border=true&border_radius=2)
+</div>
+
+<p align="center">
+   <a href="https://github.com/adamwinston1">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamwinston1&theme=github-compact&color=FFFFFF&line=00FF00&point=F8D210&area_color=57ff8c" alt="Github activity graph"/>
+   </a>
+ </p>
+
+<div>
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwinston1&layout=compact&theme=transparent&hide_border=true&border_radius=2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/ECode-Team/AliBaba)
+<a href="https://t.me/Parysolh">
+    <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:50px;"/>
+</a>
+<a href="https://www.linkedin.com/in/parham-mirzaei-11a972359/">
+    <img alt="LinkedIn" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;"/>
+</a>
+
+</div>
