@@ -8,8 +8,7 @@
 <div align="center">
 <img width="30%" alt="sofra3" src="https://github.com/user-attachments/assets/04a3fe6f-c98a-4f86-94b6-ba73b9cfa30a" />
   <img width="35%" alt="Ecode" src="https://github.com/user-attachments/assets/91e8c7af-8e3a-494b-a8a3-a809adfd030f" />
-<img width="30%" alt="sofra3" src="https://github.com/user-attachments/assets/04a3fe6f-c98a-4f86-94b6-ba73b9cfa30a" />
-
+<img width="30%" alt="serene3" src="https://github.com/user-attachments/assets/2d61180d-0c53-40fb-857c-9c53d6266c04" />
 </div>
 
 <br/>
@@ -53,15 +52,22 @@ We operate as a tight-knit, agile team of senior full-stack developers, frontend
 
 <table align="center" width="100%" style="border: none; border-collapse: collapse; border-width: 0px;">
   <tr style="border: none;">
-    <td align="left" valign="middle" style="border: none; border-width: 0px; padding: 0;">
-      <img src="https://skillicons.dev/icons?i=dotnet,js,react,nodejs" alt="Tools" style="vertical-align: middle;" />
-    </td>
     <td align="right" valign="middle" style="border: none; border-width: 0px; padding: 0;">
-              <a href="https://t.me/ecode_admin">
-    <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:50px;"/>
-</a>
-<a href="https://www.linkedin.com/in/adamwin112/">
-    <img alt="LinkedIn" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;"/>
-</a>
+      <a href="https://ecodetm.com">
+        <img alt="Website" src="https://img.icons8.com/fluency/48/domain.png" style="width:50px;"/>
+      </a>
+      <a href="https://www.linkedin.com/company/ecodetm">
+        <img alt="ECode LinkedIn" src="https://img.icons8.com/color/48/linkedin.png" style="width:50px;"/>
+      </a>
+      <a href="https://t.me/ecode_admin">
+        <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:50px;"/>
+      </a>
+       <a href="https://www.instagram.com/ecode_tm">
+        <img alt="Instagram" src="https://img.icons8.com/fluency/48/instagram-new.png" style="width:50px;"/>
+      </a
+      <a href="https://x.com/ECode_TM">
+        <img alt="X" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" style="width:50px;"/>
+      </a>
+    </td>
   </tr>
 </table>
