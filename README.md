@@ -24,6 +24,8 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ixiflower/ixiflower/output/snake.svg" alt="Snake animation" style="filter: hue-rotate(180deg);" />
+<img width="1693" height="1270" alt="Ecode" src="https://github.com/user-attachments/assets/91e8c7af-8e3a-494b-a8a3-a809adfd030f" />
+<img width="1693" height="1270" alt="sofra3" src="https://github.com/user-attachments/assets/04a3fe6f-c98a-4f86-94b6-ba73b9cfa30a" />
+
 </div>
 
