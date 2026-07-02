@@ -1,36 +1,26 @@
-<h1 align="center">
-   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-     <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&width=450&height=70&lines=Hi👋;I'm+Adam+Winston;Frontend+Developer.&center=true&size=30">
-   </a>
- </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adam;Born+in+2003%2C+coding+since+2017;Fullstack+Developer+%26+DevOps+Engineer;Working+with+Containers%2C+Networks+%26+Cloud" alt="Typing SVG" />
+</div>
 
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
-</p>
 
-
-<div align="center">
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=adamwinston1&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwinston1&card_width=300&card_height=195&theme=chartreuse-dark&show_icons=true&hide_border=true&border_radius=2)
-</div>
-
-<p align="center">
-   <a href="https://github.com/adamwinston1">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamwinston1&theme=github-compact&color=FFFFFF&line=00FF00&point=F8D210&area_color=57ff8c" alt="Github activity graph"/>
-   </a>
- </p>
-
-<div>
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwinston1&layout=compact&theme=transparent&hide_border=true&border_radius=2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/ECode-Team/AliBaba)
-<a href="https://t.me/Parysolh">
+<table align="center" width="100%" style="border: none; border-collapse: collapse; border-width: 0px;">
+  <tr style="border: none;">
+    <td align="left" valign="middle" style="border: none; border-width: 0px; padding: 0;">
+      <img src="https://skillicons.dev/icons?i=dotnet,js,react,nodejs" alt="Tools" style="vertical-align: middle;" />
+    </td>
+    <td align="right" valign="middle" style="border: none; border-width: 0px; padding: 0;">
+              <a href="https://t.me/ecode_admin">
     <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:50px;"/>
 </a>
-<a href="https://www.linkedin.com/in/parham-mirzaei-11a972359/">
+<a href="https://www.linkedin.com/in/adamwin112/">
     <img alt="LinkedIn" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;"/>
 </a>
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="160" alt="Coding GIF" style="vertical-align: middle;" />
+  </tr>
+</table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ixiflower/ixiflower/output/snake.svg" alt="Snake animation" style="filter: hue-rotate(180deg);" />
 </div>
+
