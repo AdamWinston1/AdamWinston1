@@ -18,19 +18,6 @@
 Most eCommerce agencies rely on bloated themes, pre-packaged apps, and rigid templates that slow down your store and drain your monthly budget. At ECode™, we take an engineering-first approach to commerce. 
 
 We are a specialized digital agency crafting high-performance Shopify storefronts, enterprise migrations, and custom commerce architectures for scaling brands. We don’t just build stores; we engineer digital sales machines designed for sub-second load times, maximum security, and unmatched conversion rates.
-
-### 👥 Our Collective Team Strength
-
-We operate as a tight-knit, agile team of senior full-stack developers, frontend architects, and UI/UX strategists. By combining deep technical precision with clear, transparent communication, we eliminate the friction of traditional agency outsourcing. When you work with ECode™, you get enterprise-grade execution delivered on time and within scope.
-
-### 💡 Core Agency Solutions
-
-* **🔳 Shopify Plus & Enterprise Commerce:** End-to-end architecture, custom checkout customizations, and B2B/D2C store setups built to handle massive traffic spikes.
-* **🔳 Headless Commerce (Next.js & Hydrogen):** Blazing-fast storefronts decoupling the frontend from the backend via Shopify Storefront API for ultimate creative freedom.
-* **🔳 Custom Liquid Theme Engineering:** Zero heavy frameworks. Modular, component-based Liquid architecture written entirely from scratch for maximum speed and easy brand scaling.
-* **🔳 Seamless Platform Migrations:** Flawless, zero-downtime store data and customer migrations from Magento, WooCommerce, or legacy custom platforms with strict SEO preservation.
-* **🔳 Backend & Custom API Engineering:** Robust Python & Django backend systems, custom private Shopify Apps, ERP/CRM synchronizations, and complex workflow automations.
-
 ---
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
