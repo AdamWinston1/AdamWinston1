@@ -3,7 +3,10 @@
 </div>
 
 <br/>
-
+<div align="center">
+  🔭  My Professional skills
+</div>
+  
 <table align="center" width="100%" style="border: none; border-collapse: collapse; border-width: 0px;">
   <tr style="border: none;">
     <td align="left" valign="middle" style="border: none; border-width: 0px; padding: 0;">
